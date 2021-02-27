@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ShopkingApp</string>
+
+    <string name="yes">Áno</string>
+    <string name="no">Nie</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Zrušiť</string>
+
+    <string name="permission_explanation_camera">Potrebujeme povolenie na používanie kamery, aby ho bolo možné použiť ako skener</string>
+
+    <string name="welcome">Vitajte</string>
+    <string name="nickname">Prihlasovacie meno:</string>
+    <string name="password">Heslo:</string>
+    <string name="login">Prihlásiť sa</string>
+    <string name="login_link"><u>Prihlásiť sa</u></string>
+    <string name="title_activity_login">Prihlásenie</string>
+
+    <string name="title_activity_pokladnik_scanner">Skenovanie tovaru</string>
+    <string name="text_code_reader">Začnite skenovať tovar</string>
+    <string name="please_wait">Počkajte prosím…</string>
+    <string name="tovar_nenajdeny">Tovar nenájdený</string>
+    <string name="neplatny_ean">Kód EAN je neplatný</string>
+    <string name="go_shopping">Začať nakupovať</string>
+
+    <string name="login_failed">Prihlásenie sa nepodarilo</string>
+    <string name="no_logged_treasury">Nie ste prihlásený kú žiadnej pokladnici. Najprv sa prihláste!</string>
+    <string name="for_admin_unavailable">Pre administrátorov nedostupné</string>
+    <string name="unuexpected_error">Neočakávaná chyba: %1$s!</string>
+
+    <string name="server_not_found">Server sa nenašiel. Je zapnutý?</string>
+    <string name="sql_error">K databáze sa nepodarilo pripojiť</string>
+    <string name="reload">obnoviť</string>
+
+    <string name="nakup_zakaznika">Nákup zákazníka</string>
+    <string name="scan">Skenovať</string>
+    <string name="edit_amount">Upraviť množstvo</string>
+    <string name="delete_item">Odstrániť položku</string>
+    <string name="pay">Zaplatiť</string>
+
+    <string name="paying">Platenie</string>
+    <string name="info_about_cashier">Pokladník zoskenuje tento kód</string>
+    <string name="exit_shopping">Ukončiť nákup</string>
+
+    <string name="choose_item_in_nakup_menu">Vyberte akciu</string>
+
+    <string name="choose_amount">Vyberte množstvo</string>
+    <string name="enter_amount">Zadajte množstvo</string>
+
+    <string name="question_exit_shopping">Nákup sa ešte nedokončil. Chcete ho naozaj ukončiť?</string>
+
+</resources>
