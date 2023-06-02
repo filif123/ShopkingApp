@@ -16,3 +16,8 @@ Ako je napísané v úvode, prvé použitie tejto aplikácie je náhrada číta�
 Tento systém funguje podobne ako služba Scan&Shop v obchodnom reťazci Tesco. Nakupujúci len skenuje čiarové kódy produktov, ktoré chce nakúpiť a pri platení v pokladni len ukončí v aplikácií nákup, aplikácia mu vygeneruje čiarový kód, ktorý dá oskenovať pokladníkovi a tým sa pokladníkovi importuje celý nákup, ktorý zákazník vytvoril. Pokladník už môže robiť to isté, ako pri obyčajných nákupoch.
 
 > Upozornenie: Zákazník musí byť v čase používania aplikácie pripojený k sieti, v ktorej sa nachádza server s databázou.
+
+## Ukážky
+<img src="examples/example1.jpg" width="400">
+<img src="examples/example2.jpg" width="400">
+<img src="examples/example3.jpg" width="400">
